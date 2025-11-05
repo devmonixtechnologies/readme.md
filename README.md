@@ -1,6 +1,6 @@
 
 
-------------------------------------------------------<img width="398" height="159" alt="logo-main" src="https://github.com/user-attachments/assets/09af922d-f20d-4036-9cf6-b143d8a7caf5" />
+------------------------------------------------------<img width="398" height="159" alt="logo-main" src="https://github.com/user-attachments/assets/09af922d-f20d-4036-9cf6-b143d8a7caf5" />-------------------------------------------------------
 
 <h1 align="center">Hi 👋, We're DevMonix Technologies</h1>
 <h3 align="center">Tech Startup Company From Kerala, India</h3>
